@@ -58,12 +58,12 @@
     ProjectUtils(
 image: 'assets/projects/img_12.png',
 
-title: 'da',
+title: 'DA',
 
-subtitle: 'da',
+subtitle: 'DA',
 
-fullcontent: 'da',
-pypiLink: 'https://github.com/VasistaTech',
+fullcontent: 'DA',
+pypiLink: 'https://github.com',
 
 displayFooter: 'Available on',
   
@@ -75,13 +75,13 @@ displayFooter: 'Available on',
  ProjectUtils(
 image: 'assets/projects/pypi-final-val.png',
 
-title: 'pypi',
+title: 'Pypi',
 
-subtitle: 'pypi',
+subtitle: 'Pypi',
 
-fullcontent: 'pypi',
+fullcontent: 'Pypi',
 
-verifierLink: 'https://linkedin.in',
+verifierLink: 'https://linkedin.com',
 
 displayFooter: 'Verified by',
   ),  
