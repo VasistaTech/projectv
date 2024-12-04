@@ -12,6 +12,6 @@ const List<Map> platformItems = [
 
 "img" :"assets/DataBricks_123.png",
 
-"title": "DataBricks",
+"title": "DB",
  },
 ]; 
