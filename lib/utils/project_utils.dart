@@ -58,12 +58,12 @@
     ProjectUtils(
 image: 'assets/projects/img_12.png',
 
-title: 'Hobby',
+title: 'da',
 
-subtitle: 'Hobby',
+subtitle: 'da',
 
-fullcontent: 'Hobby',
-pypiLink: 'https://github.com/VasistaTech/StreamLitCustomWidgetUploader',
+fullcontent: 'da',
+pypiLink: 'https://github.com/VasistaTech',
 
 displayFooter: 'Available on',
   
@@ -81,7 +81,7 @@ subtitle: 'pypi',
 
 fullcontent: 'pypi',
 
-verifierLink: 'https://linkden.in',
+verifierLink: 'https://linkedin.in',
 
 displayFooter: 'Verified by',
   ),  
