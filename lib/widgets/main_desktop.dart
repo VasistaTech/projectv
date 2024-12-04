@@ -18,7 +18,7 @@
 
           void downloadPDF() {
 
-            const url = 'https://github.com/VasistaTech/projectv/blob/main/public/VasistaTech.pdf?raw=true'; // The relative path to your PDF in the web directory
+            const url = 'https://github.com/VasistaTech/testproject/blob/main/public/VasistaTech.pdf?raw=true'; // The relative path to your PDF in the web directory
 
             final anchor = html.AnchorElement(href: url)
 
